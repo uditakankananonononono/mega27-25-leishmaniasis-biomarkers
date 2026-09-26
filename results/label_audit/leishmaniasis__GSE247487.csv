@@ -1,0 +1,4 @@
+text,label,count
+donor # control | donor # control | group: control,control,3
+donor # infected with l.b. lrv# negative | donor # infected with l.b. lrv# negative | group: lblrv#-,DROP,3
+donor # infected with l.b. lrv# positive | donor # infected with l.b. lrv# positive | group: lblrv#+,DROP,3

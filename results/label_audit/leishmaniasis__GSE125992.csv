@@ -1,0 +1,6 @@
+text,label,count
+"wb_exp#_treated_patient# | whole blood | disease state: active visceral leishmaniasis case, treated with a single dose of liposome-encapsulated amphotericin b",DROP,12
+wb_exp#_activecase_patient# | whole blood | disease state: active visceral leishmaniasis case,case,11
+wb_exp#_ehc_rep# | whole blood | disease state: endemic healthy control (serology and quantiferon negative),control,10
+wb_exp#_quantiferon_rep# | whole blood | disease state: quantiferon positive asymptomatic,DROP,9
+wb_exp#_highab_rep# | whole blood | disease state: high anti-leishmanial antibody levels by direct agglutination test,case,6

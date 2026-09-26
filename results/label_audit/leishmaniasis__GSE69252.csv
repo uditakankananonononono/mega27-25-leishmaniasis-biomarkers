@@ -1,0 +1,7 @@
+text,label,count
+"nk cells control lpg-stimulated #h, biological rep # | human nk cells from control lpg-stimulated #μg/ml # hours | disease state: control",DROP,4
+"nk cells control non stimulated, biological rep # | human nk cells from control non stimulated | disease state: control",DROP,4
+"nk cells lcd patient lpg-stimulated #h, biological rep # | human nk cells from dcl patient lpg-stimulated #μg/ml # hours | disease state: dcl",DROP,3
+"nk cells lcd patient non stimulated, biological rep # | human nk cells from dcl patient non stimulated | disease state: dcl",DROP,3
+"nk cells lcl patient lpg-stimulated #h, biological rep # | human nk cells from lcl patient lpg-stimulated #μg/ml # hours | disease state: lcl",DROP,2
+"nk cells lcl patient non stimulated, biological rep # | human nk cells from lcl patient non stimulated | disease state: lcl",DROP,2

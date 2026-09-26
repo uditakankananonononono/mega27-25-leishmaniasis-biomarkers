@@ -1,0 +1,7 @@
+text,label,count
+activevl_sla_ail#_patient# | whole blood | disease state: active vl sla plus anti-il# antibody stimulated | subject: #_vl#_sla_ail#,DROP,8
+activevl_sla_patient# | whole blood | disease state: active vl sla stimulated | subject: #_vl#_sla,DROP,8
+activevl_nil_patient# | whole blood | disease state: active vl unstimulated | subject: #_vl#_nil,case,7
+activevl_sla_iso_patient# | whole blood | disease state: active vl sla plus isotype control antibody stimulated | subject: #_vl#_sla_iso,DROP,7
+treatedvl_nil_patient# | whole blood | disease state: treated vl unstimulated | subject: #_vl#_nil_#,case,7
+treatedvl_sla_patient# | whole blood | disease state: treated vl sla stimulated | subject: #_vl#_sla_#,DROP,7

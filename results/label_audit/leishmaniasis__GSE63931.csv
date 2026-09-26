@@ -1,0 +1,9 @@
+text,label,count
+cutaneous lesion # | cutaneous lesion (l. braziliensis) #,DROP,8
+normal skin # | normal skin  (non-infected) #,control,2
+normal skin f# | normal skin  (non-infected) f#,control,1
+normal skin l# | normal skin  (non-infected) l#,control,1
+normal skin o# | normal skin  (non-infected) o#,control,1
+normal skin o# | normal skin (non-infected) o#,control,1
+normal skin s# | normal skin  (non-infected) s#,control,1
+normal skin t# | normal skin  (non-infected) t#,control,1

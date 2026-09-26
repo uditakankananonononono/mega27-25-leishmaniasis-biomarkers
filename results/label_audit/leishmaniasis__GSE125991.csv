@@ -1,0 +1,6 @@
+text,label,count
+wb_exp#_activecase_patient# | whole blood | disease state: active visceral leishmaniasis case,case,10
+"wb_exp#_treated_patient# | whole blood | disease state: active visceral leishmaniasis case, treated with # doses of non-liposomal amphotericin b on alternate days",DROP,10
+wb_exp#_quantiferon_rep# | whole blood | disease state: quantiferon positive asymptomatic,DROP,8
+wb_exp#_ehc_rep# | whole blood | disease state: endemic healthy control (serology and quantiferon negative),control,6
+wb_exp#_highab_rep# | whole blood | disease state: high anti-leishmanial antibody levels by direct agglutination test,case,2

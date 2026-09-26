@@ -1,0 +1,3 @@
+text,label,count
+"non infected mdm at t#h, donor # | mdm at #h | infection: non-infected",control,15
+"leishmania major infected  mdm at t#h, donor # | mdm at #h post-infection with metacyclic leishmania major parasites | infection: leishmania major infected",case,12

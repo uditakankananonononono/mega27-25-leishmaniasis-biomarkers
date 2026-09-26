@@ -1,0 +1,3 @@
+text,label,count
+leish_lesion_patient_# | biopsy of cutaneous leishmania braziliensis lesion,case,10
+norm_skin_patient_# | biopsy of normal skin,control,2

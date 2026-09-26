@@ -1,0 +1,5 @@
+text,label,count
+lcl # | lcl_pbmcs ex vivo | subject status: localized cutaneous leishmaniasis (lcl) patient,case,12
+dn# | healthy_pbmcs ex vivo | subject status: healthy control,control,9
+lcl #/# | lcl_pbmcs ex vivo | subject status: localized cutaneous leishmaniasis (lcl) patient,case,6
+bc# | healthy_pbmcs ex vivo | subject status: healthy control,control,3

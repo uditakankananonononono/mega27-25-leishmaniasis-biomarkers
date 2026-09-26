@@ -1,0 +1,5 @@
+text,label,count
+"control_# | human peripheral blood | disease state/treatment: healthy, montenegro negative",control,15
+"asymptomatic_# | human peripheral blood | disease state/treatment: healthy, montenegro positive",control,14
+treated patient_# | human peripheral blood | disease state/treatment: vl patient # months after treatment with pentavalent antimonial,case,8
+vl patient_# | human peripheral blood | disease state/treatment: vl patient before treatment with pentavalent antimonial,case,8

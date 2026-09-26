@@ -1,0 +1,6 @@
+text,label,count
+late_lesion_patient_# | biopsy of late cutaneous leishmania braziliensis lesion | patient age (years): # | patient sex: m,case,12
+norm_skin_control_# | biopsy of normal skin | patient age (years): n/a | patient sex: n/a,control,10
+early_lesion_patient_# | biopsy of early cutaneous leishmania braziliensis lesion | patient age (years): # | patient sex: f,case,5
+late_lesion_patient_# | biopsy of late cutaneous leishmania braziliensis lesion | patient age (years): # | patient sex: f,case,5
+early_lesion_patient_# | biopsy of early cutaneous leishmania braziliensis lesion | patient age (years): # | patient sex: m,case,3

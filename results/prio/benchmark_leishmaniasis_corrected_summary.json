@@ -1,0 +1,172 @@
+{
+  "source": "results/prio/benchmark_leishmaniasis_corrected.csv",
+  "disease": "leishmaniasis",
+  "n_gene_fold_splits": 10,
+  "npos": 537,
+  "n_graph_genes": 15809,
+  "means": {
+    "gcn": {
+      "auroc": 0.7634810437176629,
+      "auprc": 0.22772266885429185
+    },
+    "logreg": {
+      "auroc": 0.7171317539005404,
+      "auprc": 0.1326051832466391
+    },
+    "meta_abs_z": {
+      "auroc": 0.5334519605700827,
+      "auprc": 0.04550446811341155
+    },
+    "mlp": {
+      "auroc": 0.7155980746780626,
+      "auprc": 0.1407852719184423
+    },
+    "rwr": {
+      "auroc": 0.7768531469549185,
+      "auprc": 0.17860913267197942
+    },
+    "sage": {
+      "auroc": 0.7661080620817975,
+      "auprc": 0.21157110114872985
+    },
+    "sage_rwr": {
+      "auroc": 0.765820169706586,
+      "auprc": 0.14837140108346433
+    }
+  },
+  "paired_vs_rwr": {
+    "gcn": {
+      "auroc": {
+        "mean_paired_difference": -0.013372103237255661,
+        "n_wins": 2,
+        "n_losses": 8,
+        "bootstrap_fold_ci95": [
+          -0.023451892685116115,
+          -0.0036560742988320447
+        ],
+        "wilcoxon_p_exploratory": 0.048828125
+      },
+      "auprc": {
+        "mean_paired_difference": 0.049113536182312414,
+        "n_wins": 10,
+        "n_losses": 0,
+        "bootstrap_fold_ci95": [
+          0.034848793280325675,
+          0.06394371182101935
+        ],
+        "wilcoxon_p_exploratory": 0.001953125
+      }
+    },
+    "sage": {
+      "auroc": {
+        "mean_paired_difference": -0.01074508487312099,
+        "n_wins": 1,
+        "n_losses": 9,
+        "bootstrap_fold_ci95": [
+          -0.014993187202396495,
+          -0.006060294724315344
+        ],
+        "wilcoxon_p_exploratory": 0.005859375
+      },
+      "auprc": {
+        "mean_paired_difference": 0.03296196847675041,
+        "n_wins": 8,
+        "n_losses": 2,
+        "bootstrap_fold_ci95": [
+          0.01038421159367129,
+          0.05624392586449047
+        ],
+        "wilcoxon_p_exploratory": 0.037109375
+      }
+    },
+    "sage_rwr": {
+      "auroc": {
+        "mean_paired_difference": -0.011032977248332599,
+        "n_wins": 2,
+        "n_losses": 8,
+        "bootstrap_fold_ci95": [
+          -0.016153588507527367,
+          -0.005831251233827594
+        ],
+        "wilcoxon_p_exploratory": 0.009765625
+      },
+      "auprc": {
+        "mean_paired_difference": -0.03023773158851507,
+        "n_wins": 0,
+        "n_losses": 10,
+        "bootstrap_fold_ci95": [
+          -0.03874867260389706,
+          -0.023337675707125048
+        ],
+        "wilcoxon_p_exploratory": 0.001953125
+      }
+    },
+    "mlp": {
+      "auroc": {
+        "mean_paired_difference": -0.06125507227685586,
+        "n_wins": 0,
+        "n_losses": 10,
+        "bootstrap_fold_ci95": [
+          -0.07560503336117642,
+          -0.04840952826833146
+        ],
+        "wilcoxon_p_exploratory": 0.001953125
+      },
+      "auprc": {
+        "mean_paired_difference": -0.037823860753537095,
+        "n_wins": 2,
+        "n_losses": 8,
+        "bootstrap_fold_ci95": [
+          -0.058435759800120335,
+          -0.016998841174268604
+        ],
+        "wilcoxon_p_exploratory": 0.01953125
+      }
+    },
+    "logreg": {
+      "auroc": {
+        "mean_paired_difference": -0.059721393054378125,
+        "n_wins": 0,
+        "n_losses": 10,
+        "bootstrap_fold_ci95": [
+          -0.07463465194186177,
+          -0.04597894624316566
+        ],
+        "wilcoxon_p_exploratory": 0.001953125
+      },
+      "auprc": {
+        "mean_paired_difference": -0.04600394942534029,
+        "n_wins": 1,
+        "n_losses": 9,
+        "bootstrap_fold_ci95": [
+          -0.06518844859127758,
+          -0.025665198816841223
+        ],
+        "wilcoxon_p_exploratory": 0.005859375
+      }
+    },
+    "meta_abs_z": {
+      "auroc": {
+        "mean_paired_difference": -0.2434011863848357,
+        "n_wins": 0,
+        "n_losses": 10,
+        "bootstrap_fold_ci95": [
+          -0.2754782287197293,
+          -0.2131301587817759
+        ],
+        "wilcoxon_p_exploratory": 0.001953125
+      },
+      "auprc": {
+        "mean_paired_difference": -0.13310466455856787,
+        "n_wins": 0,
+        "n_losses": 10,
+        "bootstrap_fold_ci95": [
+          -0.14363248529936762,
+          -0.12283972263432555
+        ],
+        "wilcoxon_p_exploratory": 0.001953125
+      }
+    }
+  },
+  "limitations": "One graph, same-snapshot Open Targets proxy labels; GCN improves PR-AUC but loses AUROC to RWR. Bootstrap fold interval descriptive only. Not same-task published benchmark or clinical temporal outcome."
+}

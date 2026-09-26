@@ -1,0 +1,265 @@
+{
+  "schema": "migration-plan-v1",
+  "disease": "leishmaniasis",
+  "proposed_repo": "mega27-25-leishmaniasis-biomarkers",
+  "source_shared_repository": "uditakankananonononono/mega27-25-biomarkers-underserved-diseases",
+  "source_commit": "d2284557dc5c515cef9ffc13b7df774508b8211e",
+  "tracked_files": [
+    {
+      "shared_repo_path": "projects/leishmaniasis/NOVELTY_PLAN.md",
+      "sha256": "99ecb94955ebfc35d681cfeb79809383d495fc220efa769bca017037f5292603",
+      "bytes": 2643
+    },
+    {
+      "shared_repo_path": "projects/leishmaniasis/README.md",
+      "sha256": "abb1752e846b660b07bfd823929845f8e160015c29bebfbbca82fdddf5199f51",
+      "bytes": 4482
+    },
+    {
+      "shared_repo_path": "projects/leishmaniasis/sources/GSE125993_series_soft.txt",
+      "sha256": "3eb2158b91ece58b1a202976891ed294e300411db17a48dcd7626648c1444d8b",
+      "bytes": 3884
+    },
+    {
+      "shared_repo_path": "projects/leishmaniasis/sources/GSE55664_used_sample_crosswalk.csv",
+      "sha256": "839bad219d800acf610b82190ceff37181b783e2862633495bce4c974389e073",
+      "bytes": 13897
+    },
+    {
+      "shared_repo_path": "projects/leishmaniasis/sources/GSE80008_used_sample_crosswalk.csv",
+      "sha256": "44d2d3fb82642b8290c5c09acaf518284d3a5aebcc37517b6c912a1be375ed44",
+      "bytes": 8235
+    },
+    {
+      "shared_repo_path": "results/label_audit/leishmaniasis__GSE125991.csv",
+      "sha256": "6d86daa14b057ae6e8298aae61b8552d615568d2428e6f04036099f64c04497a",
+      "bytes": 632
+    },
+    {
+      "shared_repo_path": "results/label_audit/leishmaniasis__GSE125992.csv",
+      "sha256": "c925d7af6f1fdb3f0c4dc0a886cd763e917513f6f2af4a927fe6de2b37059d6f",
+      "bytes": 629
+    },
+    {
+      "shared_repo_path": "results/label_audit/leishmaniasis__GSE125993.csv",
+      "sha256": "b363737399ed940429946a180e065a44d0c8a78eaef69a259d205c82a40bb7ab",
+      "bytes": 803
+    },
+    {
+      "shared_repo_path": "results/label_audit/leishmaniasis__GSE146908.csv",
+      "sha256": "29b406efeacc225d2d00a59f64e60e0374eb1d0f62994ab637275abeb0720d74",
+      "bytes": 728
+    },
+    {
+      "shared_repo_path": "results/label_audit/leishmaniasis__GSE247487.csv",
+      "sha256": "e162f2965fab0752bee1f1e11e36d69df6f9df740d65b9b08adb4492d5847e41",
+      "bytes": 294
+    },
+    {
+      "shared_repo_path": "results/label_audit/leishmaniasis__GSE42088.csv",
+      "sha256": "18c70b7e1a4763f9f1a6ac9dbd89f1f756d728b11681ca3fb27afcee0aba51ce",
+      "bytes": 215
+    },
+    {
+      "shared_repo_path": "results/label_audit/leishmaniasis__GSE43661.csv",
+      "sha256": "5178f9457a4eb9a97c2233ba7f03eb078575405c1a50d403debe82e8a2fe1f8e",
+      "bytes": 267
+    },
+    {
+      "shared_repo_path": "results/label_audit/leishmaniasis__GSE43880.csv",
+      "sha256": "a05d4ad5505c04f96bee241421d3bd80bb50efe881adbdb9d7066f87821c905f",
+      "bytes": 155
+    },
+    {
+      "shared_repo_path": "results/label_audit/leishmaniasis__GSE55664.csv",
+      "sha256": "ecfd5cac26ac243e35e97e63b131077b6fff67ace65fe9acd63085ee05842ce5",
+      "bytes": 639
+    },
+    {
+      "shared_repo_path": "results/label_audit/leishmaniasis__GSE63931.csv",
+      "sha256": "a40520e4aa480eb231cfb38560821dea810d13c61e37f2391f2c7134dc4fcf9c",
+      "bytes": 485
+    },
+    {
+      "shared_repo_path": "results/label_audit/leishmaniasis__GSE69252.csv",
+      "sha256": "8a6c4d33be5eab0f3a401d250d171b47fa5f7aa5b6383f5777c27333ee723043",
+      "bytes": 864
+    },
+    {
+      "shared_repo_path": "results/label_audit/leishmaniasis__GSE77528.csv",
+      "sha256": "30d98b6e5b3bc345db5627aea0214899ee5f60915df6287a7edf4a89433ec8b7",
+      "bytes": 499
+    },
+    {
+      "shared_repo_path": "results/label_audit/leishmaniasis__GSE80008.csv",
+      "sha256": "c08e14908da08aecc330fce1be0ee4b3dea703d191aa00846bc22fb8015b063f",
+      "bytes": 362
+    },
+    {
+      "shared_repo_path": "results/label_audit/leishmaniasis__GSE95625.csv",
+      "sha256": "650146784f2e3f09862d629dfef88963db7eabd5e57a47b9515526215fc629a7",
+      "bytes": 153
+    },
+    {
+      "shared_repo_path": "results/meta_discovery/leishmaniasis.csv.gz",
+      "sha256": "778fc228c6e8d05dd425afd517112ab2e146f82828513f2d568b340015166c8e",
+      "bytes": 579489
+    },
+    {
+      "shared_repo_path": "results/prio/benchmark_leishmaniasis.csv",
+      "sha256": "d4e14bfb067c3f96e77fd741275e62bebc9b46bc1e918ee4f69cdff1e6dbcdbb",
+      "bytes": 4731
+    },
+    {
+      "shared_repo_path": "results/prio/benchmark_leishmaniasis_corrected.csv",
+      "sha256": "efe2ea1caff17e69fe62622f8d6311311c269cd072b5b96cf71ab59b4f28ffce",
+      "bytes": 4661
+    },
+    {
+      "shared_repo_path": "results/prio/benchmark_leishmaniasis_corrected_summary.json",
+      "sha256": "5fb069ea655719738b0ad9b32ad22da81afc1426163dd4a791915587815e0d41",
+      "bytes": 4566
+    },
+    {
+      "shared_repo_path": "results/prio/candidates_leishmaniasis.csv",
+      "sha256": "146e8c0414a5c1e7e4810e1f09e7ca787e3e67745b08e13334c65348b4ca005e",
+      "bytes": 2498
+    },
+    {
+      "shared_repo_path": "results/prio/corrected_shards/leishmaniasis_seed0_fold0.csv",
+      "sha256": "19b783f3a2f908e3941e0e8f65a17b7bcc3a020eb86a711ae116b3beaf0371f4",
+      "bytes": 512
+    },
+    {
+      "shared_repo_path": "results/prio/corrected_shards/leishmaniasis_seed0_fold1.csv",
+      "sha256": "c9c1aea189d996a0d30dbc6fcb5c2d0b73f73df54fef2541e58a56878d5afedc",
+      "bytes": 509
+    },
+    {
+      "shared_repo_path": "results/prio/corrected_shards/leishmaniasis_seed0_fold2.csv",
+      "sha256": "12b0c461291e73a432da66535a99c425fff0013e8795994914299f80cb79bd84",
+      "bytes": 510
+    },
+    {
+      "shared_repo_path": "results/prio/corrected_shards/leishmaniasis_seed0_fold3.csv",
+      "sha256": "1d49c9bd516ce1a7a7f7520cbf8b12c00f5f648b3ae63037adf8c168965f1aaa",
+      "bytes": 508
+    },
+    {
+      "shared_repo_path": "results/prio/corrected_shards/leishmaniasis_seed0_fold4.csv",
+      "sha256": "d8e3d8c15a1344f9c89cb1a1c88b54e9f0b0bb9381cdde01495b5660d1b1c757",
+      "bytes": 511
+    },
+    {
+      "shared_repo_path": "results/prio/corrected_shards/leishmaniasis_seed1_fold0.csv",
+      "sha256": "4de16e1656101be600afd72c11e3a6bfaedff9659e5ae14f4e588184b4ba3a57",
+      "bytes": 510
+    },
+    {
+      "shared_repo_path": "results/prio/corrected_shards/leishmaniasis_seed1_fold1.csv",
+      "sha256": "a7b6f91c501f074ebadff6d62ce940ed75fc0bfbafd69ca1c960e04cb5f816ac",
+      "bytes": 508
+    },
+    {
+      "shared_repo_path": "results/prio/corrected_shards/leishmaniasis_seed1_fold2.csv",
+      "sha256": "c1c7921cfba811bd3b13b4d750ff5b9e936d534e497ed51d799bc68da755780b",
+      "bytes": 512
+    },
+    {
+      "shared_repo_path": "results/prio/corrected_shards/leishmaniasis_seed1_fold3.csv",
+      "sha256": "9857e7645b0c27ec8e7ad9feccb09a529cc917d3bda351c5a5132e7d04db5290",
+      "bytes": 509
+    },
+    {
+      "shared_repo_path": "results/prio/corrected_shards/leishmaniasis_seed1_fold4.csv",
+      "sha256": "5d535fe46100248a6501b7b6d86afac399c8e46c563429b42c41dc214f53e773",
+      "bytes": 508
+    },
+    {
+      "shared_repo_path": "results/series/leishmaniasis__GSE125991.csv.gz",
+      "sha256": "549201c0e3cc9613cd1f34ae0e13a4bfd023f9f7d89ba326f787372917e42c3d",
+      "bytes": 138366
+    },
+    {
+      "shared_repo_path": "results/series/leishmaniasis__GSE125991.labels.csv",
+      "sha256": "b738b7ef6f147e510eebe53f59e8816a240222a9a82af4f9106a1a391dc85e3c",
+      "bytes": 532
+    },
+    {
+      "shared_repo_path": "results/series/leishmaniasis__GSE125992.csv.gz",
+      "sha256": "9951a4be57d972912d8ee07789bd9c5c7d51a0815896bb2a6e20406d3274dfcf",
+      "bytes": 141938
+    },
+    {
+      "shared_repo_path": "results/series/leishmaniasis__GSE125992.labels.csv",
+      "sha256": "e205494e01e8172582324334c4b967de8829c2d4bc1346e42e9ee6be320aa386",
+      "bytes": 724
+    },
+    {
+      "shared_repo_path": "results/series/leishmaniasis__GSE125993.csv.gz",
+      "sha256": "5b949c9c82ace1f9c677f88884e912fce12a69cacb29a300093fe6093be24f27",
+      "bytes": 150538
+    },
+    {
+      "shared_repo_path": "results/series/leishmaniasis__GSE125993.labels.csv",
+      "sha256": "c3ce21302ada43e8421f105dfe9fa8e986b63c71d85ed5879d0a82984e117ec8",
+      "bytes": 1246
+    },
+    {
+      "shared_repo_path": "results/series/leishmaniasis__GSE43661.csv.gz",
+      "sha256": "bd47aac0d59a17123f57629c1dd1b10262c3f555e3395cbf20970b6343623a0b",
+      "bytes": 196858
+    },
+    {
+      "shared_repo_path": "results/series/leishmaniasis__GSE43661.labels.csv",
+      "sha256": "1b12c05d7ced137bbcbf48969ddf52301ada9a04ff02f24ab593be443543edd1",
+      "bytes": 487
+    },
+    {
+      "shared_repo_path": "results/series/leishmaniasis__GSE55664.csv.gz",
+      "sha256": "5acceed89d78935d73f73699011e560281f8b6045e302a182de3f080db5178d0",
+      "bytes": 208870
+    },
+    {
+      "shared_repo_path": "results/series/leishmaniasis__GSE55664.labels.csv",
+      "sha256": "cc2691d60338057ef806c3d5804e3f4b8b019575314155b5b063e01309f8fa58",
+      "bytes": 600
+    },
+    {
+      "shared_repo_path": "results/series/leishmaniasis__GSE77528.csv.gz",
+      "sha256": "66ac8d86fc0b5d0aefbb5ba1354bb6f73b4accf39f1cd990a8428a533ad84889",
+      "bytes": 126234
+    },
+    {
+      "shared_repo_path": "results/series/leishmaniasis__GSE77528.labels.csv",
+      "sha256": "2af84260cb86e2babb3ecc43856af5e332618609497f2f5039e915de42802ccc",
+      "bytes": 817
+    },
+    {
+      "shared_repo_path": "results/series/leishmaniasis__GSE80008.csv.gz",
+      "sha256": "dd274e4fdad79f0c36f88ed5adae5b13ae511fae13185d119e0808d4a531e973",
+      "bytes": 195697
+    },
+    {
+      "shared_repo_path": "results/series/leishmaniasis__GSE80008.labels.csv",
+      "sha256": "44c339be06b3c56da0d13fb320ea7cc76ed1b86da44b94d0fcab28dd55af5428",
+      "bytes": 526
+    }
+  ],
+  "explicitly_excluded": [
+    "untracked files",
+    "modified tracked files not represented by source commit",
+    "other-disease results",
+    "shared manuscript until disease-specific content can be verified"
+  ],
+  "accession_manifest": {
+    "source": "results/dataset_manifest.csv",
+    "matching_rule": "disease string in role field, not proof of independent datasets",
+    "matching_record_count": 178,
+    "GSE_count": 5,
+    "GSM_count": 172,
+    "other_count": 1
+  },
+  "deployment_status": "planning_only_no_repos_verified",
+  "method": "copy and verify hashes from source_commit Git tree, not dirty working tree; preserve project-relative paths; pin shared core; then run project-specific tests and read back remote"
+}
