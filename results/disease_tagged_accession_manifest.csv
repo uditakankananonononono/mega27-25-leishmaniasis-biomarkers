@@ -1,5 +1,6 @@
 accession,source,role
 GSE125993,GEO series,leishmaniasis:validation
+GSE127831,GEO series and depositor normalized expression/design files,"leishmaniasis:P35 selected two-gene descriptive lesion follow-up; parent of 28 analyzed GSMs, not an independent additional cohort"
 GSE214397,GEO series and processed expression matrix,leishmaniasis:P30 selected two-gene descriptive follow-up
 GSE216638,GEO series and count workbook,leishmaniasis:P28 cross-parasite lesion panel transport
 GSE55664,GEO series,leishmaniasis:discovery
