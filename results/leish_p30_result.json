@@ -1,0 +1,44 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE214397",
+  "sha256": {
+    "GSE214397_series_matrix.txt.gz": "7d12af7c4465902181f9e32dd1347f5ba493e6598736edf8a816ccded476c907",
+    "GSE214397_processed_log2cpm.txt.gz": "c065bd30189c88bed1d43e87e303b7f9a2a69ad6b1923f6754a80a5d2991b41b"
+  },
+  "n_lesion": 51,
+  "n_healthy": 6,
+  "unique_symbols": 17125,
+  "genes": [
+    {
+      "gene": "PON2",
+      "n_case": 51,
+      "n_control": 6,
+      "case_mean": 4.416871719114851,
+      "control_mean": 5.551741313682981,
+      "log2cpm_difference": -1.13486959456813,
+      "welch_difference_ci95_low": -1.510983063290254,
+      "welch_difference_ci95_high": -0.758756125846006,
+      "hedges_g": -3.004095806134347,
+      "g_variance": 0.2654375941235178,
+      "welch_p": 0.00026269274445849016,
+      "down": true,
+      "bonferroni_pass": true
+    },
+    {
+      "gene": "CACNA2D2",
+      "n_case": 51,
+      "n_control": 6,
+      "case_mean": 0.34154461183892293,
+      "control_mean": 1.9431543087935843,
+      "log2cpm_difference": -1.6016096969546614,
+      "welch_difference_ci95_low": -1.9748288178091826,
+      "welch_difference_ci95_high": -1.2283905761001401,
+      "hedges_g": -3.640714816420648,
+      "g_variance": 0.30254472361536744,
+      "welch_p": 2.0129308037102448e-05,
+      "down": true,
+      "bonferroni_pass": true
+    }
+  ],
+  "registered_descriptive_support": true,
+  "selection_status": "post-P28 selected; not untouched validation or novel discovery"
+}

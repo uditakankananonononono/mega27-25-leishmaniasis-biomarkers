@@ -1,0 +1,17 @@
+{
+  "audit_type": "post-outcome phenotype sensitivity, not preregistered confirmation",
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE125993",
+  "n_source_GSM": 84,
+  "n_active": 21,
+  "n_endemic_healthy": 16,
+  "n_excluded_highab_previously_case": 8,
+  "n_top50_measured": 43,
+  "sign_agreement": 19,
+  "sign_fraction": 0.4418604651162791,
+  "null_sign_mean": 0.523793023255814,
+  "empirical_p_sign": 0.8926107389261074,
+  "direction_p05_hits": 5,
+  "null_hits_mean": 5.6988,
+  "empirical_p_hits": 0.6886311368863114,
+  "old_result": "results/replication_results.json; 29 case labels include eight HighAb; do not erase"
+}

@@ -1,0 +1,58 @@
+gsm,title,diagnosis,tissue,treatment_outcome
+GSM6919123,Patient1,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: DOT
+GSM6919124,Patient2,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919125,Patient3,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919126,Patient4,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919127,Patient5,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: DOT
+GSM6919128,Patient6,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919129,Patient7,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919130,Patient8,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919131,Patient9,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919132,Patient10,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919133,Patient11,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: DOT
+GSM6919134,Patient12,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: DOT
+GSM6919135,Patient13,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919136,Patient14,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919137,Patient15,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: DOT
+GSM6919138,Patient16,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919139,Patient17,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919140,Patient18,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919141,Patient19,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919142,Patient20,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919143,Patient21,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919144,Patient22,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919145,Patient23,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919146,Patient24,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919147,Patient25,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919148,Patient26,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919149,Patient27,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919150,Patient28,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919151,Patient29,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919152,Patient30,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919153,Patient31,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919154,Patient32,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919155,Patient33,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919156,Patient34,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919157,Patient35,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919158,Patient36,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: DOT
+GSM6919159,Patient37,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: DOT
+GSM6919160,Patient38,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919161,Patient39,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: DOT
+GSM6919162,Patient40,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919163,Patient41,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919164,Patient42,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919165,Patient43,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: DOT
+GSM6919166,Patient44,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919167,Patient45,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919168,Patient46,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919169,Patient47,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919170,Patient48,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919171,Patient49,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Failure
+GSM6919172,Patient50,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919173,Patient51,diagnosis: cutaneous leishmaniasis,tissue: CL lesion skin biopsy,treatment outcome: Cure
+GSM6919174,HS1,diagnosis: healthy,tissue: intact skin biopsy,treatment outcome: NA
+GSM6919175,HS2,diagnosis: healthy,tissue: intact skin biopsy,treatment outcome: NA
+GSM6919176,HS3,diagnosis: healthy,tissue: intact skin biopsy,treatment outcome: NA
+GSM6919177,HS4,diagnosis: healthy,tissue: intact skin biopsy,treatment outcome: NA
+GSM6919178,HS5,diagnosis: healthy,tissue: intact skin biopsy,treatment outcome: NA
+GSM6919179,HS6,diagnosis: healthy,tissue: intact skin biopsy,treatment outcome: NA

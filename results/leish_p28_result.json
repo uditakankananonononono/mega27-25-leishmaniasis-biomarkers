@@ -1,0 +1,26 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE216638",
+  "sha256": {
+    "GSE216638_series_matrix.txt.gz": "d67a275a4e9b6b3f097f43d4afed82b82ad6daf11bc9c81bd39dbd1b93c21868",
+    "GSE216638_resultsAll_Counts.xlsx": "29d3d2b37392d4f5a9f4461801d8173def9a5d634e08add50433500cd3923944"
+  },
+  "n_lesion": 16,
+  "n_UCL": 7,
+  "n_NUCL": 9,
+  "n_healthy": 6,
+  "n_unique_mapped_genes": 22164,
+  "n_effect_genes": 17360,
+  "duplicate_symbol_count": 33,
+  "n_fixed_measured": 18,
+  "missing_fixed": [
+    "CCL2",
+    "CCR4"
+  ],
+  "n_positive": 6,
+  "n_negative": 12,
+  "n_sign_match": 11,
+  "null_mean": 11.2201,
+  "empirical_p": 0.6443355664433557,
+  "registered_descriptive_support": false,
+  "panel_bh_hits": 2
+}

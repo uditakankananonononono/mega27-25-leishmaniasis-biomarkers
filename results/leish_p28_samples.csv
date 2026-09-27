@@ -1,0 +1,23 @@
+gsm,column,title,disease,treatment
+GSM6685067,A,A: acute stage /UCL,disease state: acute stage /UCL,treatment: NO prior anti-leishmanial treatment
+GSM6685068,B,B: acute stage /UCL,disease state: acute stage /UCL,treatment: NO prior anti-leishmanial treatment
+GSM6685069,C,C: acute stage /NUCL,disease state: acute stage /NUCL,treatment: NO prior anti-leishmanial treatment
+GSM6685070,D,D: acute stage /UCL,disease state: acute stage /UCL,treatment: NO prior anti-leishmanial treatment
+GSM6685071,E,E: acute stage /UCL,disease state: acute stage /UCL,treatment: NO prior anti-leishmanial treatment
+GSM6685072,F,F: acute stage /UCL,disease state: acute stage /UCL,treatment: NO prior anti-leishmanial treatment
+GSM6685073,G,G: acute stage /NUCL,disease state: acute stage /NUCL,treatment: NO prior anti-leishmanial treatment
+GSM6685074,H,H: acute stage /NUCL,disease state: acute stage /NUCL,treatment: NO prior anti-leishmanial treatment
+GSM6685075,I,I: acute stage /UCL,disease state: acute stage /UCL,treatment: NO prior anti-leishmanial treatment
+GSM6685076,J,J: acute stage /UCL,disease state: acute stage /UCL,treatment: NO prior anti-leishmanial treatment
+GSM6685077,K,K: acute stage /NUCL,disease state: acute stage /NUCL,treatment: NO prior anti-leishmanial treatment
+GSM6685078,L,L: acute stage /NUCL,disease state: acute stage /NUCL,treatment: NO prior anti-leishmanial treatment
+GSM6685079,M,M: acute stage /NUCL,disease state: acute stage /NUCL,treatment: NO prior anti-leishmanial treatment
+GSM6685080,O,O: acute stage /NUCL,disease state: acute stage /NUCL,treatment: NO prior anti-leishmanial treatment
+GSM6685081,P,P: acute stage /NUCL,disease state: acute stage /NUCL,treatment: NO prior anti-leishmanial treatment
+GSM6685082,Q,Q: acute stage /NUCL,disease state: acute stage /NUCL,treatment: NO prior anti-leishmanial treatment
+GSM6685083,H1,H1: healthy,disease state: healthy,treatment: healthy
+GSM6685084,H2,H2: healthy,disease state: healthy,treatment: healthy
+GSM6685085,H3,H3: healthy,disease state: healthy,treatment: healthy
+GSM6685086,H4,H4: healthy,disease state: healthy,treatment: healthy
+GSM6685087,H5,H5: healthy,disease state: healthy,treatment: healthy
+GSM6685088,H7,H7: healthy,disease state: healthy,treatment: healthy

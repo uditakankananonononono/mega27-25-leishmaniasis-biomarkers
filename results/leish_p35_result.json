@@ -1,0 +1,53 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE127831",
+  "sha256": {
+    "normalized": "ac826a7f4b4f472285d3644b43aa6e9ce3212c1b70ae585fecb39bb7d34b19d8",
+    "design": "1544d482c0e7f4d53a4275a169f6e01c6f217d791e233d3eb7addc86f96deab6"
+  },
+  "n_lesion": 21,
+  "n_healthy": 7,
+  "n_symbols": 34935,
+  "duplicated_symbols": 4,
+  "treatment_outcomes": {
+    "failure": 7,
+    "cure": 14
+  },
+  "genes": [
+    {
+      "gene": "PON2",
+      "n_lesion": 21,
+      "n_healthy": 7,
+      "lesion_mean": 4.734157584809524,
+      "healthy_mean": 5.625560652285714,
+      "normalized_difference": -0.8914030674761895,
+      "welch_ci95": [
+        -1.2231780785144493,
+        -0.5596280564379297
+      ],
+      "hedges_g": -2.016662913870328,
+      "g_variance": 0.26309992812226124,
+      "welch_p": 3.931479903719749e-05,
+      "down": true,
+      "bonferroni_pass": true
+    },
+    {
+      "gene": "CACNA2D2",
+      "n_lesion": 21,
+      "n_healthy": 7,
+      "lesion_mean": 0.5288392835238096,
+      "healthy_mean": 1.7951964971428573,
+      "normalized_difference": -1.2663572136190477,
+      "welch_ci95": [
+        -1.645932274905053,
+        -0.8867821523330426
+      ],
+      "hedges_g": -2.4920020899659527,
+      "g_variance": 0.3013703764832383,
+      "welch_p": 3.3018983101132272e-06,
+      "down": true,
+      "bonferroni_pass": true
+    }
+  ],
+  "registered_descriptive_support": true,
+  "selection_status": "Post-P28 and P30 selected; recurrence only, overlap with other Bahia study patients unverified"
+}
