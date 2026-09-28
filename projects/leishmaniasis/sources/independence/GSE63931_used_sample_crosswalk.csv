@@ -1,0 +1,17 @@
+gsm,source_url,source_sha256,title,source_group,probes_matched
+GSM1560512,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560512&targ=self&form=text&view=full,e0e224750bd24e3dd4a4d9ab83361d915f12819afa9a4ebcce3364868cf1b9a5,Normal skin O1,healthy_skin,50561
+GSM1560513,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560513&targ=self&form=text&view=full,151c354dd324ad0bc84d392a762d00a7f2306d0993c6a08495c04ea9438130f6,Normal skin O2,healthy_skin,50561
+GSM1560514,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560514&targ=self&form=text&view=full,388afedd209e1349dbdfb6686e6a59a840d48a021bcdd9bb7b732bb00da8944e,Normal skin S8,healthy_skin,50561
+GSM1560515,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560515&targ=self&form=text&view=full,7a30ff299f83ac3f73151400322b79cf583417cad3dad4d7a0e907ac992206bc,Normal skin 11,healthy_skin,50561
+GSM1560516,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560516&targ=self&form=text&view=full,af4650ca604f54bf74c3c927853786580df9877e4c426cdafda0ccc5cd8470e3,Normal skin 25,healthy_skin,50561
+GSM1560517,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560517&targ=self&form=text&view=full,8e4efbd277884d366449a2a866396fce8870e184959f1b6baa9ff9037b20806e,Normal skin L1,healthy_skin,50561
+GSM1560518,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560518&targ=self&form=text&view=full,c596ec656330d24494873a3937c090a5e5c5c758ef73d559d1956952aca02c68,Normal skin F3,healthy_skin,50561
+GSM1560519,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560519&targ=self&form=text&view=full,a71368335c80b4b1ff46d6aaf2596a13f07af6a1220d7508c4c844c5e12e9fe8,Normal skin T1,healthy_skin,50561
+GSM1560520,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560520&targ=self&form=text&view=full,4bbff255e795666b20aa318b573371cf9e6db47ad04458920b051e0caba33cec,Cutaneous lesion 1,lesion,50561
+GSM1560521,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560521&targ=self&form=text&view=full,c6becfe8ee866fa88518f2d2e5956e0da9f5b0c1bea8230960a560ca11c226e0,Cutaneous lesion 2,lesion,50561
+GSM1560522,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560522&targ=self&form=text&view=full,08fa865bb54f1a7ded0fb6fd51c1de27e2a3dab1e2ff1b5c1b152d8194fbd999,Cutaneous lesion 3,lesion,50561
+GSM1560523,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560523&targ=self&form=text&view=full,939c056fa46f2c0e89138c85e5e8c0760a2cd3ee74dcf379124c51dceb3c974a,Cutaneous lesion 4,lesion,50561
+GSM1560524,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560524&targ=self&form=text&view=full,c694935fb13acc68a52ef7bb7934395c14a8360f1b333844da0fc1b157a03f22,Cutaneous lesion 5,lesion,50561
+GSM1560525,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560525&targ=self&form=text&view=full,9ca37a651169fad2784bb7ce19d8957d312a5c081b012c5931a207a3a34459b1,Cutaneous lesion 6,lesion,50561
+GSM1560526,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560526&targ=self&form=text&view=full,7f76cce032945f2538c7161c06b52b6f7897020249d193ff8725e6edfcd3c7ac,Cutaneous lesion 10,lesion,50561
+GSM1560527,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1560527&targ=self&form=text&view=full,c913aeee9afb01a5e0a648f1b81bcdd4e9c09c49ddceca8c8eadea4d7e8e9420,Cutaneous lesion 11,lesion,50561

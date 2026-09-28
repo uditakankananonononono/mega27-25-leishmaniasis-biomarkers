@@ -1,0 +1,51 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63931",
+  "sha256": {
+    "matrix": "21f4424b5b8197eb41f53ef394ee70b57f016ce4ff7d4ac2937b6b05f865b003",
+    "platform": "3f967e8c265fe56343f5b79e21b522128d987804fae8a4245ed2e69b03b037f1"
+  },
+  "source_records": 16,
+  "cases": 8,
+  "healthy": 8,
+  "n_fixed_measured": 2,
+  "genes": [
+    {
+      "gene": "PON2",
+      "probe": "A_23_P31399",
+      "n_lesion": 8,
+      "n_healthy": 8,
+      "mean_lesion": -0.3806472420692444,
+      "mean_healthy": 0.20902490615844727,
+      "mean_difference": -0.5896721482276917,
+      "ci95_difference": [
+        -1.0498811687004634,
+        -0.12946312775491975
+      ],
+      "hedges_g": -1.3041873640258739,
+      "g_variance": 0.3031532712651487,
+      "welch_two_sided_p": 0.015849276664426898,
+      "one_sided_negative_p": 0.00792463833221345,
+      "bonferroni_directional_pass": true
+    },
+    {
+      "gene": "CACNA2D2",
+      "probe": "A_23_P346900",
+      "n_lesion": 8,
+      "n_healthy": 8,
+      "mean_lesion": -0.6910088658332825,
+      "mean_healthy": 0.9034056663513184,
+      "mean_difference": -1.5944145321846008,
+      "ci95_difference": [
+        -2.23547463873597,
+        -0.9533544256332317
+      ],
+      "hedges_g": -2.5337061936052203,
+      "g_variance": 0.45061459610979543,
+      "welch_two_sided_p": 0.00011916153094603703,
+      "one_sided_negative_p": 5.958076547301853e-05,
+      "bonferroni_directional_pass": true
+    }
+  ],
+  "both_directional_pass": true,
+  "status": "Post-selection follow-up after P30/P35, not untouched validation. Participant independence versus Brazilian cohorts unverified; same-task published benchmark and clinical classifier absent."
+}
